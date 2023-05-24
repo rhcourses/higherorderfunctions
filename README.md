@@ -11,3 +11,9 @@ Funktionen definieren kann.
 
 Außerdem werden wir uns mit sog. *Generics* befassen, d.h. mit Funktionen,
 deren konkrete Parameter- und Rückgabetypen erst bei deren Verwendung festgelegt werden.
+
+## Beispiele für Funktionen, die Elemente in Listen suchen
+
+Im Package `findelements` finden sich verschiedene Beispiele für Funktionen, die Elemente
+in Listen suchen. In der dortigen README.md finden sich weitere Informationen sowie
+einige Aufgaben dazu.
