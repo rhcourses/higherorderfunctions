@@ -28,3 +28,8 @@ einige Aufgaben dazu.
 
 Im Package `sorting` finden sich Beispiele und Aufgaben für das Sortieren von Listen mittels der
 Standardbibliothek.
+
+## Aufgaben zum Anwenden von Funktionen auf ganze Listen
+
+In den Packages `mapfunction` und `foreach` finden sich Beispiele und Aufgaben dazu, wie man Funktionen auf ganze
+Listen anwenden kann.
