@@ -17,3 +17,9 @@ deren konkrete Parameter- und Rückgabetypen erst bei deren Verwendung festgeleg
 Im Package `findelements` finden sich verschiedene Beispiele für Funktionen, die Elemente
 in Listen suchen. In der dortigen README.md finden sich weitere Informationen sowie
 einige Aufgaben dazu.
+
+## Aufgaben zum Filtern von Listen
+
+Im Package `filter` finden sich verschiedene Beispiele für Funktionen, die Listen
+filtern. In der dortigen README.md finden sich weitere Informationen sowie
+einige Aufgaben dazu.
