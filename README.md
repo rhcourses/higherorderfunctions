@@ -23,3 +23,8 @@ einige Aufgaben dazu.
 Im Package `filter` finden sich verschiedene Beispiele für Funktionen, die Listen
 filtern. In der dortigen README.md finden sich weitere Informationen sowie
 einige Aufgaben dazu.
+
+## Aufgaben zum Sortieren von Listen
+
+Im Package `sorting` finden sich Beispiele und Aufgaben für das Sortieren von Listen mittels der
+Standardbibliothek.
