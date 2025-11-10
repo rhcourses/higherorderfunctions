@@ -26,7 +26,7 @@ einige Aufgaben dazu.
 
 ## Aufgaben zum Sortieren von Listen
 
-Im Package `sorting` finden sich Aufgaben für das Sortieren von Listen mittels der
+Im Package `sorting` finden sich Beispiele und Aufgaben für das Sortieren von Listen mittels der
 Standardbibliothek.
 
 ## Aufgaben zum Anwenden von Funktionen auf ganze Listen
