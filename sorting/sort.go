@@ -1,6 +1,10 @@
 package sorting
 
-import "sort"
+import (
+	"slices"
+	"sort"
+	"strings"
+)
 
 // SortAscending sortiert die Liste aufsteigend.
 // Die Funktion verwendet dafür die Funktion sort.Slice aus dem Paket sort.
@@ -37,9 +41,9 @@ func SortByAgeDescending(list []Person) {
 }
 
 // SortByNameAscending sortiert die Liste nach dem Namen der Personen aufsteigend.
-// Die Funktion verwendet dafür die Funktion sort.Slice aus dem Paket sort.
+// Die Funktion verwendet dafür die Funktion slices.SortFunc aus dem Paket slices.
 func SortByNameAscending(list []Person) {
-	sort.Slice(list, func(i, j int) bool {
-		return list[i].Name < list[j].Name
+	slices.SortFunc(list, func(a, b Person) int {
+		return strings.Compare(a.Name, b.Name)
 	})
 }
